@@ -1,0 +1,6 @@
+C:\Users\PROBOOK\OneDrive\Escritorio\Challenges\CRUD-Empleados\Data\bin\Debug\Data.dll
+C:\Users\PROBOOK\OneDrive\Escritorio\Challenges\CRUD-Empleados\Data\bin\Debug\Data.pdb
+C:\Users\PROBOOK\OneDrive\Escritorio\Challenges\CRUD-Empleados\Data\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\PROBOOK\OneDrive\Escritorio\Challenges\CRUD-Empleados\Data\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\PROBOOK\OneDrive\Escritorio\Challenges\CRUD-Empleados\Data\obj\Debug\Data.dll
+C:\Users\PROBOOK\OneDrive\Escritorio\Challenges\CRUD-Empleados\Data\obj\Debug\Data.pdb
